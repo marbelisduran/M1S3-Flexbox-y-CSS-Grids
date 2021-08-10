@@ -1,0 +1,11 @@
+.divisor {
+    background-color: red;
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+}
+
+#parrafo {
+    color: aqua;
+    display: inline;
+}
